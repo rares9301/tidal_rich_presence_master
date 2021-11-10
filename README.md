@@ -12,22 +12,26 @@ Feel free to report any bugs or make suggestions.
 [Support me using paypal](https://www.paypal.me/KharonIX)
 ## Example Screenshot
 
-![alt text](./assets/screenshot.jpg)
+When playing a song with hifi audio quality.
+
+![alt text](./assets/music_playing.png)
+![alt text](./assets/tidal_music_playing.png)
 
 When playing a song with master audio quality.
 
-![alt text](./assets/highres.jpg)
+![alt text](./assets/master_playing.png)
+![alt text](./assets/tidal_master_playing.png)
 
 or you have paused playback
 
-![alt text](./assets/paused.jpg)
+![alt text](./assets/music_paused.png)
 
 
 
 ## Instructions
 The new version doesn't require connection with last-fm, 'cause I reversed engineered TIDAL API,  get the data from the window name of the app.
 
-1.  Download the latest release from [here](https://github.com/purpl3F0x/TIDAL-Discord-Rich-Presence-UNOFFICIAL/releases)
+1.  Download the latest release from [here](https://github.com/rares9301/tidal_rich_presence_master/releases)
 (windows and osx are supported).
 
 2.  Run the binary, enjoy.
