@@ -39,13 +39,13 @@ The new version doesn't require connection with last-fm, 'cause I reversed engin
 3.  *Optional*: Place the exe in windows start-up folder to start when computer starts. For OSX select that option from by right clicking the app on taskbar.
 
 
-The program registers an icon on the taskbar, ~~where you can see the song playing and temporary disable *rich presence*~~.
+The program registers an icon on the taskbar, where you can see the song playing and temporary disable *rich presence*.
 
-![alt text](./assets/taskbar.jpg) ![alt text](./assets/taskbar_opened.png)
+![alt text](./assets/down_there.PNG)
 
 P.S. Remember to make sure you have Game Activity enabled!
 
-![example of Game Activity tab inside of Discord Settings](https://user-images.githubusercontent.com/3516420/80171200-53356280-85af-11ea-8a51-66b3780250be.png)
+![example of Game Activity tab inside of Discord Settings](./assets/activity_status.PNG)
 
 
 ## Build Instructions
