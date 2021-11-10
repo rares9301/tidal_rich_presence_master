@@ -61,4 +61,4 @@ for their awesome work.
 
 
 
-> ### Stavros Avramidis Never Settle & Keep Running
+> ### “I don’t like expending more effort than I have to.” -Ayanokouji Kiyotaka
