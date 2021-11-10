@@ -41,7 +41,7 @@ The new version doesn't require connection with last-fm, 'cause I reversed engin
 
 The program registers an icon on the taskbar, where you can see the song playing and temporary disable *rich presence*.
 
-![alt text](./assets/taskbar.jpg) ![alt text](./assets/down_there.PNG)
+![alt text](./assets/down_there.PNG)
 
 P.S. Remember to make sure you have Game Activity enabled!
 
