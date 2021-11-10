@@ -53,12 +53,10 @@ P.S. Remember to make sure you have Game Activity enabled!
 To build the executable you'll need either msvc on windows or clang on osx. For windows I had problems with gcc either conflicting with discord lib on (debug) and http not have <mutex>.
 
 
-### Disclaimer: This project is Unofficial and it's not published from TIDAL.com &/ Aspiro.
+### Disclaimer: This project is Unofficial and it's not published from TIDAL.com.
 
 Kudos to:
-+ https://github.com/nlohmann/json
-+ https://github.com/yhirose/cpp-httplib
-
++ https://github.com/rares9301
 for their awesome work.
 
 
