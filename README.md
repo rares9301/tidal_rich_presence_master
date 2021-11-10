@@ -14,17 +14,17 @@ Feel free to report any bugs or make suggestions.
 
 When playing a song with hifi audio quality.
 
-![alt text](./assets/music_playing.png)
-![alt text](./assets/tidal_music_playing.png)
+![alt text](./assets/music_playing.PNG)
+![alt text](./assets/tidal_music_playing.PNG)
 
 When playing a song with master audio quality.
 
-![alt text](./assets/master_playing.png)
-![alt text](./assets/tidal_master_playing.png)
+![alt text](./assets/master_playing.PNG)
+![alt text](./assets/tidal_master_playing.PNG)
 
 or you have paused playback
 
-![alt text](./assets/music_paused.png)
+![alt text](./assets/music_paused.PNG)
 
 
 
