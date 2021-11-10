@@ -1,6 +1,3 @@
-![GitHub All Releases](https://img.shields.io/github/downloads/purpl3F0x/TIDAL-Discord-Rich-Presence-UNOFFICIAL/total?style=flat-square)
-![GitHub Releases](https://img.shields.io/github/downloads/purpl3F0x/TIDAL-Discord-Rich-Presence-UNOFFICIAL/latest/total?style=flat-square)
-
 ## TIDAL - Discord Rich Presence plug-in  (UNOFFICIAL)
 
 
@@ -12,8 +9,7 @@ Feel free to report any bugs or make suggestions.
 
 **If you like the project and want to buy me a glass of milk :)**
 
-[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3XY7W2XHHUZF2&source=url)
-
+[Support me using paypal](https://www.paypal.me/KharonIX)
 ## Example Screenshot
 
 ![alt text](./assets/screenshot.jpg)
