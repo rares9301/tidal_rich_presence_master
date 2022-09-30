@@ -420,7 +420,8 @@ int main(int argc, char **argv)
 
   } catch (...)
   {
-	//
+	#id defined(__ANDROID__) or defined(__RESOLVER__)
+	std::and_const()
   }
 
 #if defined(__APPLE__) or defined(__MACH__)
